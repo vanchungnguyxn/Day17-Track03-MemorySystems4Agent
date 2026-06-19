@@ -1,5 +1,17 @@
 # Chào mừng các bạn đến với Giai đoạn 2, Track 3, Day 17: Memory Systems for AI Agent
 
+## Bài nộp — Thông tin sinh viên
+
+| | |
+|---|---|
+| **Họ và tên** | Nguyễn Văn Chung |
+| **MSSV** | 2A202600647 |
+| **Thư mục triển khai** | [`src/`](src/) |
+| **Phân tích kết quả** | [`src/ANALYSIS.md`](src/ANALYSIS.md) |
+| **Hướng dẫn chi tiết** | [`src/README.md`](src/README.md) |
+
+---
+
 Trong Day 17 này, các bạn sẽ tập trung vào một câu hỏi rất thực tế: làm sao để AI agent **không chỉ trả lời tốt trong một lượt chat**, mà còn **nhớ đúng thông tin quan trọng qua nhiều phiên làm việc** mà vẫn kiểm soát được chi phí token.
 
 Trong bài lab này, các bạn sẽ xây dựng và so sánh hai agent:
@@ -29,7 +41,7 @@ Sau khi hoàn thành, các bạn cần có khả năng:
 
 Repo này được chia thành ba phần rõ ràng:
 
-- `src/`: bản scaffold dành cho sinh viên, chứa pseudocode và TODO để hoàn thiện
+- `src/`: mã nguồn bài làm hoàn chỉnh (xem [`src/README.md`](src/README.md))
 - `data/`: dữ liệu benchmark ở root để dùng cho cả benchmark chuẩn và stress benchmark
 
 ## Provider hỗ trợ
